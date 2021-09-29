@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1632892081 source:/home/jake/code/testproject/main.cpp
+	<iostream>
+	<cmath>
+	"perlinnoise.h"
+
+1632892649 /home/jake/code/testproject/perlinnoise.h
+	<vector>
+
+1632893064 source:/home/jake/code/testproject/perlinnoise.cpp
+	"perlinnoise.h"
+	<cmath>
+	<random>
+	<algorithm>
+	<numeric>
+
