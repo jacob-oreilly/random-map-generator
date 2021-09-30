@@ -31,7 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.cpp" />
+		<Unit filename="main.cpp">
+			<Option weight="61" />
+		</Unit>
+		<Unit filename="perlinnoise.cpp" />
+		<Unit filename="perlinnoise.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

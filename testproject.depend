@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1632892081 source:/home/jake/code/testproject/main.cpp
+1632973300 source:/home/jake/code/testproject/main.cpp
 	<iostream>
 	<cmath>
 	"perlinnoise.h"
+	<SDL2/SDL.h>
+	<stdio.h>
 
 1632892649 /home/jake/code/testproject/perlinnoise.h
 	<vector>
